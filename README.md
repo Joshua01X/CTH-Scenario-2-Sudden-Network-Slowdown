@@ -1,4 +1,4 @@
-# Threat Hunting in Microsoft Azure with Microsoft Defender for Endpoint (MDE)
+# Threat Hunting: Investigating Sudden Network Slowdown
 
 ## Introduction/Objectives
 In this project, I conduct a threat-hunting exercise within a Microsoft Azure-hosted virtual machine using Microsoft Defender for Endpoint (MDE). The primary goal is to detect, investigate, and mitigate suspicious network activities related to devices exposed to the internet. This scenario involves analyzing potential adversarial behaviors, identifying indicators of compromise (IoCs), and leveraging Kusto Query Language (KQL) to perform in-depth analysis.
