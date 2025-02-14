@@ -106,27 +106,15 @@ DeviceFileEvents
 ![image](https://github.com/user-attachments/assets/11f38a28-4f1d-4447-b8ea-23db4c24c63f)
 
 
-## TTPs from MITRE ATT&CK Framework
-### **1. Initial Access**
-- **T1190 - Exploit Public-Facing Application**
+## Tactics, Techniques, and Procedures (TTPs) from MITRE ATT&CK Framework
 
-### **2. Discovery**
+- **T1190 - Exploit Public-Facing Application**
 - **T1046 - Network Service Scanning**
 - **T1016 - System Network Configuration Discovery**
-
-### **3. Execution**
 - **T1059.001 - Command and Scripting Interpreter: PowerShell**
-
-### **4. Defense Evasion**
 - **T1070.004 - Indicator Removal on Host: File Deletion**
-
-### **5. Lateral Movement**
 - **T1021.001 - Remote Services: SMB/Windows Admin Shares**
-
-### **6. Impact**
 - **T1499 - Endpoint Denial of Service**
-
-### **7. Command and Control**
 - **T1071.001 - Application Layer Protocol: Web Protocols**
 
 ## Conclusion
